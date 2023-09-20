@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CadastroClient/CadastroClient.iml" filepath="$PROJECT_DIR$/CadastroClient/CadastroClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CadastroServer/CadastroServer.iml" filepath="$PROJECT_DIR$/CadastroServer/CadastroServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Project.iml" filepath="$PROJECT_DIR$/.idea/Project.iml" />
+    </modules>
+  </component>
+</project>
